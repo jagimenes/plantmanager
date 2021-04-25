@@ -4,7 +4,7 @@ Figma repository
 https://www.figma.com/file/XmeNkpuSG4Wd9788U79lPr/PlantManager
 
 
-To start fake JSON Server (You need to install json-server globally)
+To start fake JSON Server (You need to install json-server globally) <br />
 json-server ./src/services/server.json --host 192.168.15.11 --port 3333
 
 To start the app
